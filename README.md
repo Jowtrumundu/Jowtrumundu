@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Jowtrumundu&color=000000)
 
-- :computer: Desenvolvedor Full-Stack
+- :computer: Aluno da Cubos Academy - Desenvolvimento Full-Stack (2023-2024)
 - :mortar_board: Análise e Desenvolvimento de Sistemas - Unicsul (2023-2025)
 
 ### Redes Sociais
